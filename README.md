@@ -1,5 +1,7 @@
 # income-app
 
+A budget tracket wich calculate your earnings by Vue.js
+
 ## Project setup
 ```
 npm install
